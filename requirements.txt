@@ -1,0 +1,6 @@
+streamlit
+streamlit-mic-recorder
+pandas
+plotly
+openpyxl
+groq
